@@ -1,0 +1,57 @@
+.summertext{
+    color: rgb(191,192,192);
+    text-align: center;
+    margin-top: 50px;
+}
+.summer{
+    background-color: rgb(248,249,250);
+    margin-top: 200px;
+    height: 900px;
+
+}
+.summerparam{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 30px;
+}
+.params{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.card{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    /* align-items: center;
+    justify-content: center; */
+    margin-top: 50px;
+    background-color: white;
+    gap: 40px;
+    margin-left: 200px;
+}
+.pricesummer{
+    text-align: center;
+    color: rgb(253,164,59);
+    font-size: 20px;
+    margin-top: 50px;
+}
+.categorysummer{
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.titlesummer{
+    color: grey;
+    margin-top: 20px;
+}
+.orderbtn{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(253,164,59);
+    border: none;
+    color: white;
+    margin-left: 150px;
+    margin-top: 30px;
+}

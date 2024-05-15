@@ -1,0 +1,26 @@
+.gallery{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+.gallerytext{
+    text-align: center;
+    color: grey;
+    margin-top: 30px;
+}
+.gallerysec{
+    margin-top: 100px;
+}
+.search-box{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 300px 350px;
+    justify-content: center;
+    gap: 20px;
+}
+.img-search{
+    margin-top: 30px;
+    width: 300px;
+    height: 300px;
+    background: contain;
+}

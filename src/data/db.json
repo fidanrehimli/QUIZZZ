@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Far far away,behind the word mountains,far from the countries Vokalia and Consonantia,there live the blind texts ",
+            "price": 109.95,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "Beef with Sausage",
+            "image": "https://preview.colorlib.com/theme/eatwell/images/offer_1.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            }
+        },
+        {
+            "id": 2,
+            "title": "Far far away,behind the word mountains,far from the countries Vokalia and Consonantia,there live the blind texts ",
+            "price": 22.3,
+            "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+            "category": "Egg with Garlic",
+            "image": "https://preview.colorlib.com/theme/eatwell/images/offer_2.jpg",
+            "rating": {
+                "rate": 4.1,
+                "count": 259
+            }
+        },
+        {
+            "id": 3,
+            "title": "Far far away,behind the word mountains,far from the countries Vokalia and Consonantia,there live the blind texts ",
+            "price": 55.99,
+            "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+            "category": "Beef Ribs",
+            "image": "https://preview.colorlib.com/theme/eatwell/images/offer_3.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 500
+            }
+        },
+        {
+            "id": 4,
+            "title": "Far far away,behind the word mountains,far from the countries Vokalia and Consonantia,there live the blind texts ",
+            "price": 55.99,
+            "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+            "category": "Beef Ribs",
+            "image": "https://preview.colorlib.com/theme/eatwell/images/menu_1.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 500
+            }
+        },
+        {
+            "id": 5,
+            "title": "Far far away,behind the word mountains,far from the countries Vokalia and Consonantia,there live the blind texts ",
+            "price": 55.99,
+            "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+            "category": "Beef Ribs",
+            "image": "https://preview.colorlib.com/theme/eatwell/images/menu_3.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 500
+            }
+        }
+    ]
+}

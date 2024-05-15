@@ -1,0 +1,19 @@
+.active{
+    color: red;
+}
+header{
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+
+    h1{
+        font-size: 30px;
+        font-weight: 600;
+    }
+
+   ul{
+    display: flex;
+    list-style: none;
+    gap: 50px;
+   }
+}

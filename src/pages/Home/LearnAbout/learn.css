@@ -1,0 +1,46 @@
+
+.learn{
+    display: flex;
+    margin-top: 80px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+.storytext{
+    color: rgb(199,199,199);
+}
+.welcomestory{
+    text-align: center;
+    align-items: center;
+}
+.welcome{
+    font-weight: 400;
+    font-size: 50px;
+}
+.paramtext{
+    color: rgb(199,199,199);
+    margin-top: 30px;
+}
+.params{
+    color: rgb(199,199,199);
+}
+.learnbtn{
+    margin-top: 50px;
+    width: 200px;
+    height: 50px;
+    border: 2px solid rgb(199,199,199);
+    color: rgb(199,199,199);
+    background-color: white;
+   
+}
+.learnbtn:hover{
+    background-color: rgb(253,164,3);
+}
+.welcomeimage{
+    background: url("https://preview.colorlib.com/theme/eatwell/images/about_img_1.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 600px;
+    height: 400px;
+}
